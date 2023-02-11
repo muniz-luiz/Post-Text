@@ -1,0 +1,15 @@
+C:\Users\EDUARDO\Documents\C# Programming\Post-Text\Post-Text\bin\Debug\net7.0\Post-Text.exe
+C:\Users\EDUARDO\Documents\C# Programming\Post-Text\Post-Text\bin\Debug\net7.0\Post-Text.deps.json
+C:\Users\EDUARDO\Documents\C# Programming\Post-Text\Post-Text\bin\Debug\net7.0\Post-Text.runtimeconfig.json
+C:\Users\EDUARDO\Documents\C# Programming\Post-Text\Post-Text\bin\Debug\net7.0\Post-Text.dll
+C:\Users\EDUARDO\Documents\C# Programming\Post-Text\Post-Text\bin\Debug\net7.0\Post-Text.pdb
+C:\Users\EDUARDO\Documents\C# Programming\Post-Text\Post-Text\obj\Debug\net7.0\Post-Text.csproj.AssemblyReference.cache
+C:\Users\EDUARDO\Documents\C# Programming\Post-Text\Post-Text\obj\Debug\net7.0\Post-Text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDUARDO\Documents\C# Programming\Post-Text\Post-Text\obj\Debug\net7.0\Post-Text.AssemblyInfoInputs.cache
+C:\Users\EDUARDO\Documents\C# Programming\Post-Text\Post-Text\obj\Debug\net7.0\Post-Text.AssemblyInfo.cs
+C:\Users\EDUARDO\Documents\C# Programming\Post-Text\Post-Text\obj\Debug\net7.0\Post-Text.csproj.CoreCompileInputs.cache
+C:\Users\EDUARDO\Documents\C# Programming\Post-Text\Post-Text\obj\Debug\net7.0\Post-Text.dll
+C:\Users\EDUARDO\Documents\C# Programming\Post-Text\Post-Text\obj\Debug\net7.0\refint\Post-Text.dll
+C:\Users\EDUARDO\Documents\C# Programming\Post-Text\Post-Text\obj\Debug\net7.0\Post-Text.pdb
+C:\Users\EDUARDO\Documents\C# Programming\Post-Text\Post-Text\obj\Debug\net7.0\Post-Text.genruntimeconfig.cache
+C:\Users\EDUARDO\Documents\C# Programming\Post-Text\Post-Text\obj\Debug\net7.0\ref\Post-Text.dll
